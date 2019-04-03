@@ -89,7 +89,8 @@ img{
 
 @media screen and (min-width:875px)
 {
-  img, p {padding:30px;}
+  img {padding:30px;}
+  p {padding:40px;}
 
   .main-content {clear:both;}
 }
