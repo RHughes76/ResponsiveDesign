@@ -89,7 +89,7 @@ img{
 
 @media screen and (min-width:875px)
 {
-  .column1 {width:inherit; float:left;}
-  .column2 {width:inherit; float:right;}
+  img, p {padding:30px;}
+
   .main-content {clear:both;}
 }
